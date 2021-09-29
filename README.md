@@ -4,4 +4,4 @@
 2.file crypto.key will be created.
 3. Start shifr.sh.
 4 follow the suggested options.
-=================================
+
